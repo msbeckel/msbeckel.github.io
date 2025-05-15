@@ -344,7 +344,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/cv_20250515.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -509,13 +509,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/msbeckel", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-linkedin',
