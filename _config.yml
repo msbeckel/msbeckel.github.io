@@ -637,11 +637,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
+  #- projects
+  #- volunteer
+  #- awards
   - certificates
   - skills
   - languages
-  - interests
-  - references
+  #- interests
+  #- references
