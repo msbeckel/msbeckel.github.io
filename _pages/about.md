@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Centro de Biología Molecular Severo Ochoa (CBMSO)</p>
     <p>c/Nicolás Cabrera 1</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m **Dr. Maximiliano S. Beckel**, a postdoctoral researcher at the [Lloréns Lab](https://llorenslab.cbm.uam.es/wordpress/), based at the [Centro de Biología Molecular Severo Ochoa (CBMSO)](https://www.cbm.uam.es/) in Madrid, Spain. I specialize in **bioinformatics**, **computational biology**, and **data science**, with a strong focus on **transcriptomics** and **single-cell RNA sequencing**.
+I’m **Dr. Maximiliano S. Beckel**, a postdoctoral researcher at the [Llorens Lab](https://llorenslab.cbm.uam.es/wordpress/), based at the [Centro de Biología Molecular Severo Ochoa (CBMSO)](https://www.cbm.uam.es/) in Madrid, Spain. I specialize in **bioinformatics**, **computational biology**, and **data science**, with a strong focus on **transcriptomics** and **single-cell RNA sequencing**.
 
 I earned my PhD in Biological Sciences, where I combined **statistical modeling**, **network theory**, and **molecular biology** to study alternative splicing and gene regulation. More recently, I’ve pursued advanced training in **data mining** and **machine learning**, applying these tools to complex biological datasets.
 
