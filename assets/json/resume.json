@@ -54,8 +54,19 @@
       "studyType": "PhD",
       "startDate": "2016-04-01",
       "endDate": "2022-09-19",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "score": "Outstanding",
+      "courses": ["Bioinformatics", "Statistics", "Data science"]
+    },   
+    {
+      "institution": "University of Buenos Aires, Buenos Aires, Argentina",
+      "location": "Buenos Aires, Argentina",
+      "url": "https://datamining.dc.uba.ar/datamining/",
+      "area": "Data science",
+      "studyType": "Specialization on data mining and knowledge discovery",
+      "startDate": "2023-03-01",
+      "endDate": "2024-10-10",
+      "score": "8",
+      "courses": ["Data science", "Statistics", "Machine learning"]
     }
   ],
   "awards": [
@@ -151,7 +162,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
